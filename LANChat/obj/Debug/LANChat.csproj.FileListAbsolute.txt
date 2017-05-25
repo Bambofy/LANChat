@@ -1,0 +1,9 @@
+D:\Development\c#\LANChat\LANChat\bin\Debug\LANChat.exe.config
+D:\Development\c#\LANChat\LANChat\bin\Debug\LANChat.exe
+D:\Development\c#\LANChat\LANChat\bin\Debug\LANChat.pdb
+D:\Development\c#\LANChat\LANChat\obj\Debug\LANChat.csprojResolveAssemblyReference.cache
+D:\Development\c#\LANChat\LANChat\obj\Debug\LANChat.formLANChat.resources
+D:\Development\c#\LANChat\LANChat\obj\Debug\LANChat.Properties.Resources.resources
+D:\Development\c#\LANChat\LANChat\obj\Debug\LANChat.csproj.GenerateResource.Cache
+D:\Development\c#\LANChat\LANChat\obj\Debug\LANChat.exe
+D:\Development\c#\LANChat\LANChat\obj\Debug\LANChat.pdb
